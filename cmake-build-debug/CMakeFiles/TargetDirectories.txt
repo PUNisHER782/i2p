@@ -1,0 +1,3 @@
+C:/Users/dutta/CLionProjects/i2p/cmake-build-debug/CMakeFiles/i2p.dir
+C:/Users/dutta/CLionProjects/i2p/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dutta/CLionProjects/i2p/cmake-build-debug/CMakeFiles/rebuild_cache.dir
