@@ -1,5 +1,5 @@
 //#include<stdio.h>
-//// Function to calculate the factorial of a number
+// Function to calculate the factorial of a number
 //unsigned long long factorial(int n) {
 //    if (n == 0 || n == 1) {
 //        return 1;
@@ -24,23 +24,23 @@
 //
 //    return 0;
 //}
-#include<stdio.h>
-int rto(int age) {
-        if (age >= 18 && age <= 65) {
-            printf("DL applied succesfully ! ");
-        } else {
-            printf("Enter age !");
-            scanf("%d", &age);
-            rto(age);
-        }
-    }
-int main(){
-    int age;
-    scanf("%d",&age);
-    if(age>=18){
-        rto(age);
-    }else{
-        printf("Error");
-    }
-
-}
+//#include<stdio.h>
+//int rto(int age) {
+//        if (age >= 18 && age <= 65) {
+//            printf("DL applied succesfully ! ");
+//        } else {
+//            printf("Enter age !");
+//            scanf("%d", &age);
+//            rto(age);
+//        }
+//    }
+//int main(){
+//    int age;
+//    scanf("%d",&age);
+//    if(age>=18){
+//        rto(age);
+//    }else{
+//        printf("Error");
+//    }
+//
+//}

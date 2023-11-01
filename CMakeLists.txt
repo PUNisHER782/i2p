@@ -7,4 +7,5 @@ add_executable(i2p
 #        main.c
         #sample.c
         lab.c
+        TECHNICAL.c
 )
