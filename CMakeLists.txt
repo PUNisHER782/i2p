@@ -6,6 +6,7 @@ set(CMAKE_C_STANDARD 23)
 add_executable(i2p
 #        main.c
         #sample.c
-        lab.c
-        TECHNICAL.c
+      #  lab.c
+      #  TECHNICAL.c
+        p.1.c
 )
