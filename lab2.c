@@ -1,4 +1,5 @@
-//wap in c to insert an element in an array
+//wap in c to insert an element in an array, to insert a particular postion of an array,to implement liner search.
+
 #include <stdio.h>
 
 int main() {
