@@ -13,5 +13,6 @@ add_executable(i2p
       #  p.3.c
       #  lab2.c
       # lab3.c
-        technical2.c
+        #technical2.c
+        p.4.c
 )
