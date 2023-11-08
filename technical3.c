@@ -1,5 +1,3 @@
-//wap in c to implement one dimensional array.
-
 #include<stdio.h>
 
 int main(){
@@ -8,7 +6,7 @@ int main(){
     scanf("%d",&n);
     for( int i = 0;i < 5 ; i++){
         if(n==i){
-        printf("arr[%d] = %d\n",i,arr[i]);}
+            printf("arr[%d] = %d\n",i,arr[i]);}
     }
-return 0;
+    return 0;
 }
