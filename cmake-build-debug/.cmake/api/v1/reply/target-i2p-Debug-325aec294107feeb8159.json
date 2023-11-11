@@ -53,11 +53,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1,
-				2,
-				3,
-				4,
-				5
+				1
 			]
 		}
 	],
@@ -95,11 +91,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1,
-				2,
-				3,
-				4,
-				5
+				1
 			]
 		}
 	],
@@ -108,37 +100,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "p.14.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "p.15.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "p.16.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "p.17.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "p.18.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
 			"path" : "p.19.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "p.20.c",
 			"sourceGroupIndex" : 0
 		}
 	],
