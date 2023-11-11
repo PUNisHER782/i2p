@@ -6,6 +6,7 @@ set(CMAKE_C_STANDARD 23)
 add_executable(i2p
         p.24.c
         p.25.c
+        p.26.c
 
 
 )
