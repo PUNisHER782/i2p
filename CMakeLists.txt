@@ -9,6 +9,7 @@ add_executable(i2p
         home.c
         p.31.c
         p.32.c
+        p.33.c
 
 
 )
