@@ -5,29 +5,7 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(i2p
 
-
-        home.c
-        p.31.c
-        p.32.c
-        p.33.c
-        p.34.c
-        p.35.c
-        p.36.c
-        p.37.c
-        p.38.c
-        p.39.c
-        p.40.c
-        p.41.c
-        p.42.c
-        p.43.c
-        p.44.c
-        p.45.c
-        p.46.c
-        p.47.c
-        p.48.c
-        p.49.c
-        p.50.c
         p.51.c
-
+        p.52.c
 
 )
