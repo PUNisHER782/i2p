@@ -4,7 +4,8 @@ project(i2p C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(i2p
-#        main.c
+        p.5.c
+        #        main.c
         #sample.c
       #  lab.c
       #  TECHNICAL.c
@@ -13,7 +14,7 @@ add_executable(i2p
       #  p.3.c
       #  lab2.c
       # lab3.c
-        #technical2.c
-        technical3.c
+       # technical2.c
+        #technical3.c
         #p.4.c
 )
