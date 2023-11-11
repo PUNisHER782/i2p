@@ -26,6 +26,7 @@ add_executable(i2p
         p.47.c
         p.48.c
         p.49.c
+        p.50.c
 
 
 )
