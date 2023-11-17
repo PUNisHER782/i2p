@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(i2p
 #sample.c
-        tutorial.c
+       # tutorial.c
         tutorialclass.c
 
 )
