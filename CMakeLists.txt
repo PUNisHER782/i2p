@@ -4,6 +4,8 @@ project(i2p C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(i2p
-sample.c
+#sample.c
+        tutorial.c
+        tutorialclass.c
 
 )
